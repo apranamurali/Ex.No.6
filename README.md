@@ -1,7 +1,7 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Name : Madhuvathani V
-# Register no. 212223040107
+# Name : APARNA.M
+# Register no. 212223220008
 
 
 # Aim:
